@@ -1,0 +1,31 @@
+# NestJS build files
+/.dist
+
+# Node modules
+/node_modules
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Logs & debugging
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+
+# Cache
+.cache
+.npm
+.pnpm
+.yarn/cache
+.yarn/unplugged
+.yarn/build-state.yml
+.yarn/install-state.gz
+
+# Editor & OS files
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db

@@ -12,7 +12,7 @@ import { TypeOrmModule } from '@nestjs/typeorm';
       username: 'postgres',
       password: 'postgres',
       database: 'task-managment',
-      autoLoadEntitites: true,
+      autoLoadEntities: true,
       synchronize: true,
     }),
   ],

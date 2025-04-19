@@ -1,9 +1,9 @@
-import { Column, Entity, PrimaryGenerateColumn } from 'typeorm';
+import { Column, Entity, PrimaryGeneratedColumn } from 'typeorm';
 import { TaskStatus } from "./task-status.enum"
 
 @Entity()
 export class Task {
-  @PrimaryGenerateColumn('uuid')
+  @PrimaryGeneratedColumn('uuid')
   id: string
 
   @Column()

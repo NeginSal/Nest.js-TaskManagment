@@ -59,8 +59,7 @@ const RAW_RUNTIME_STATE =
           ["ts-node", "virtual:3f7f96ce418d2fccc24bce43db8736ebbe22660b6295064debb91f9378be02c782d53e61d73039eaa850c167ab544e921b8e3dddeb7f9c414cada99d9ad1bf65#npm:10.9.2"],\
           ["tsconfig-paths", "npm:4.1.0"],\
           ["typeorm", "virtual:3f7f96ce418d2fccc24bce43db8736ebbe22660b6295064debb91f9378be02c782d53e61d73039eaa850c167ab544e921b8e3dddeb7f9c414cada99d9ad1bf65#npm:0.3.22"],\
-          ["typescript", "patch:typescript@npm%3A4.9.5#optional!builtin<compat/typescript>::version=4.9.5&hash=289587"],\
-          ["uuid", "npm:11.1.0"]\
+          ["typescript", "patch:typescript@npm%3A4.9.5#optional!builtin<compat/typescript>::version=4.9.5&hash=289587"]\
         ],\
         "linkType": "SOFT"\
       }]\
@@ -6802,8 +6801,7 @@ const RAW_RUNTIME_STATE =
           ["ts-node", "virtual:3f7f96ce418d2fccc24bce43db8736ebbe22660b6295064debb91f9378be02c782d53e61d73039eaa850c167ab544e921b8e3dddeb7f9c414cada99d9ad1bf65#npm:10.9.2"],\
           ["tsconfig-paths", "npm:4.1.0"],\
           ["typeorm", "virtual:3f7f96ce418d2fccc24bce43db8736ebbe22660b6295064debb91f9378be02c782d53e61d73039eaa850c167ab544e921b8e3dddeb7f9c414cada99d9ad1bf65#npm:0.3.22"],\
-          ["typescript", "patch:typescript@npm%3A4.9.5#optional!builtin<compat/typescript>::version=4.9.5&hash=289587"],\
-          ["uuid", "npm:11.1.0"]\
+          ["typescript", "patch:typescript@npm%3A4.9.5#optional!builtin<compat/typescript>::version=4.9.5&hash=289587"]\
         ],\
         "linkType": "SOFT"\
       }]\

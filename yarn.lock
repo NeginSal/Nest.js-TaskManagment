@@ -5266,7 +5266,6 @@ __metadata:
     tsconfig-paths: "npm:4.1.0"
     typeorm: "npm:^0.3.22"
     typescript: "npm:^4.7.4"
-    uuid: "npm:^11.1.0"
   languageName: unknown
   linkType: soft
 
